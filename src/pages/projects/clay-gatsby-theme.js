@@ -110,7 +110,7 @@ export default function About() {
                   Visit Demo
                 </Link>
                 <Link
-                  href="https://github.com/lilxyzz/clay-theme"
+                  href="https://github.com/sandhani45/clay-theme"
                   target={"_blank"}
                   className="w-10"
                   aria-label="github link"

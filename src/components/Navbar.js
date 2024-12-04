@@ -119,7 +119,7 @@ const Navbar = () => {
           <motion.a
             target={"_blank"}
             className="w-7 mr-3"
-            href="https://github.com/lilxyzz"
+            href="https://github.com/sandhani45"
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
             aria-label="Checkout my GitHub profile"
@@ -127,7 +127,7 @@ const Navbar = () => {
             <GithubIcon />
           </motion.a>
 
-          <motion.a
+          {/* <motion.a
             target={"_blank"}
             className="w-7 mx-3 bg-light rounded-full"
             href="https://medium.com/@travis.lord"
@@ -136,9 +136,9 @@ const Navbar = () => {
             aria-label="Checkout my Medium profile"
           >
             <MediumIcon />
-          </motion.a>
+          </motion.a> */}
 
-          <motion.a
+          {/* <motion.a
             target={"_blank"}
             className="w-7 mx-3"
             href="https://dev.to/lilxyzz"
@@ -147,7 +147,7 @@ const Navbar = () => {
             aria-label="Checkout my Dev.to profile"
           >
             <DevIcon />
-          </motion.a>
+          </motion.a> */}
 
           <motion.a
             target={"_blank"}
@@ -221,7 +221,7 @@ const Navbar = () => {
             <motion.a
               target={"_blank"}
               className="w-6 mr-3"
-              href="https://github.com/lilxyzz"
+              href="https://github.com/sandhani45"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
               aria-label="Checkout my Github profile"
